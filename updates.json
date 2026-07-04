@@ -1,17 +1,69 @@
 [
   {
-    "update_type": "blog",
-    "place": "medium",
-    "update_link": "https://medium.com/@cookienetchain/introducing-the-cookie-recipe-5a515f9029a3"
+    "id": "introducing-cookie-recipe",
+    "title": "Introducing the Cookie Recipe",
+    "description": "The founding manifesto of Cookie Chain, explaining how a community-driven blockchain emerged through resilience, builders, and shared belief.",
+    "summary": "The origin story and community philosophy behind Cookie Chain.",
+    "content_type": "manifesto",
+    "category": "vision",
+    "url": "https://medium.com/@cookienetchain/introducing-the-cookie-recipe-5a515f9029a3",
+    "source": {
+      "platform": "Medium",
+      "author": "Cookie Monster"
+    },
+    "published_at": "2026-05-26",
+    "image": "",
+    "tags": [
+      "community",
+      "vision",
+      "blockchain",
+      "manifesto"
+    ],
+    "featured": false,
+    "language": "en"
   },
   {
-    "update_type": "educational",
-    "place": "medium",
-    "update_link": "https://medium.com/@cookienetchain/the-cookie-chain-cookbook-a9e1dca4d8a3"
+    "id": "cookie-chain-cookbook",
+    "title": "The Cookie Chain Cookbook",
+    "description": "Official onboarding guide for bridging assets from Solana to Cookie Chain.",
+    "summary": "Migration guide for new Cookie Chain users.",
+    "content_type": "guide",
+    "category": "documentation",
+    "url": "https://medium.com/@cookienetchain/the-cookie-chain-cookbook-a9e1dca4d8a3",
+    "source": {
+      "platform": "Medium",
+      "author": "Cookie Chain"
+    },
+    "published_at": "2026-05-26",
+    "image": "",
+    "tags": [
+      "guide",
+      "bridge",
+      "onboarding"
+    ],
+    "featured": false,
+    "language": "en"
   },
   {
-    "update_type": "update",
-    "place": "x",
-    "update_link": "https://x.com/TheCookieChain/status/2072923291891704274?s=20"
+    "id": "hyperlane-bridge-release",
+    "title": "Monumental Update: Hyperlane Bridge Leaves Beta",
+    "description": "The Cookie Chain bridge now supports instant Hyperlane Warp Route transfers.",
+    "summary": "Instant bridging is now live.",
+    "content_type": "announcement",
+    "category": "infrastructure",
+    "url": "https://x.com/TheCookieChain/status/2072923291891704274?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "",
+    "image": "",
+    "tags": [
+      "bridge",
+      "hyperlane",
+      "cook"
+    ],
+    "featured": true,
+    "language": "en"
   }
 ]
