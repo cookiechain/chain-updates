@@ -19,7 +19,7 @@
       "blockchain",
       "manifesto"
     ],
-    "featured": false,
+    "featured": true,
     "language": "en"
   },
   {
@@ -41,7 +41,7 @@
       "bridge",
       "onboarding"
     ],
-    "featured": false,
+    "featured": true,
     "language": "en"
   },
   {
@@ -109,7 +109,7 @@
       "cookie-jar",
       "cook"
     ],
-    "featured": false,
+    "featured": true,
     "language": "en"
   },
   {
@@ -200,7 +200,7 @@
       "blockchain",
       "listing"
     ],
-    "featured": true,
+    "featured": false,
     "language": "en"
   },
   {
