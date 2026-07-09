@@ -65,5 +65,165 @@
     ],
     "featured": true,
     "language": "en"
+  },
+  {
+    "id": "liquid-staking-live",
+    "title": "Liquid Staking on Cookie Chain Is Live",
+    "description": "Cookie Chain launched liquid staking, letting users stake COOK and receive liquid bCOOK while earning dripped staking rewards over 12 months.",
+    "summary": "Liquid staking with bCOOK is now live on Cookie Chain.",
+    "content_type": "announcement",
+    "category": "staking",
+    "url": "https://x.com/TheCookieChain/status/2074403537065255394?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-07-07",
+    "image": "",
+    "tags": [
+      "staking",
+      "bcook",
+      "cook",
+      "rewards"
+    ],
+    "featured": true,
+    "language": "en"
+  },
+  {
+    "id": "cookie-jar-buybacks",
+    "title": "Introducing Cookie Jar Buybacks",
+    "description": "Cookie Chain announced that 25% of Pump.fun creator fee revenue will fund COOK buybacks for the community-owned Cookie Jar treasury.",
+    "summary": "A new buyback program directs creator fee revenue into the Cookie Jar treasury.",
+    "content_type": "announcement",
+    "category": "treasury",
+    "url": "https://x.com/TheCookieChain/status/2062151970228417019?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-06-03",
+    "image": "",
+    "tags": [
+      "buybacks",
+      "treasury",
+      "cookie-jar",
+      "cook"
+    ],
+    "featured": false,
+    "language": "en"
+  },
+  {
+    "id": "third-buyback-hyperlane-transfer",
+    "title": "Third Buyback and Hyperlane Transfer Completed",
+    "description": "Cookie Chain completed its third 10M COOK buyback and successfully transferred 1M COOK through the in-development Hyperlane Warp Bridge.",
+    "summary": "The Cookie Jar reached 30M+ COOK while Hyperlane bridge testing succeeded.",
+    "content_type": "announcement",
+    "category": "infrastructure",
+    "url": "https://x.com/TheCookieChain/status/2072696812289552414?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-07-02",
+    "image": "",
+    "tags": [
+      "buybacks",
+      "hyperlane",
+      "bridge",
+      "cookie-jar"
+    ],
+    "featured": false,
+    "language": "en"
+  },
+  {
+    "id": "second-cookie-jar-buyback",
+    "title": "Second Cookie Jar Buyback Completed",
+    "description": "Cookie Chain purchased 10 million COOK from the market, bridged it to Cookie Chain, and added it to the Cookie Jar treasury.",
+    "summary": "The second 10M COOK buyback was added to the Cookie Jar treasury.",
+    "content_type": "announcement",
+    "category": "treasury",
+    "url": "https://x.com/TheCookieChain/status/2067206755654721641?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-06-17",
+    "image": "",
+    "tags": [
+      "buybacks",
+      "treasury",
+      "cookie-jar",
+      "cook"
+    ],
+    "featured": false,
+    "language": "en"
+  },
+  {
+    "id": "why-did-we-choose-pump-fun",
+    "title": "Why Did We Choose Pump.fun?",
+    "description": "Cookie Chain shared an article explaining why Pump.fun was selected as part of its launch and ecosystem strategy.",
+    "summary": "An article explains the reasoning behind choosing Pump.fun.",
+    "content_type": "article",
+    "category": "ecosystem",
+    "url": "https://x.com/TheCookieChain/status/2061402062143865184?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-06-01",
+    "image": "",
+    "tags": [
+      "pump-fun",
+      "solana",
+      "ecosystem"
+    ],
+    "featured": false,
+    "language": "en"
+  },
+  {
+    "id": "cookie-chain-coingecko-blockchain-listing",
+    "title": "Cookie Chain Listed on CoinGecko as a Blockchain",
+    "description": "Cookie Chain is now listed on CoinGecko as a blockchain, alongside its existing DeFiLlama tracking.",
+    "summary": "CoinGecko now tracks Cookie Chain as a blockchain.",
+    "content_type": "announcement",
+    "category": "listing",
+    "url": "https://x.com/TheCookieChain/status/2072251040397656116?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-07-01",
+    "image": "",
+    "tags": [
+      "coingecko",
+      "defillama",
+      "blockchain",
+      "listing"
+    ],
+    "featured": true,
+    "language": "en"
+  },
+  {
+    "id": "cookie-chain-token-coingecko-listing",
+    "title": "Cookie Chain COOK Listed on CoinGecko",
+    "description": "Cookie Chain announced that COOK is listed on CoinGecko, marking another milestone for the Solana-based community chain.",
+    "summary": "COOK is now listed on CoinGecko.",
+    "content_type": "announcement",
+    "category": "listing",
+    "url": "https://x.com/TheCookieChain/status/2067311955111506219?s=20",
+    "source": {
+      "platform": "X",
+      "author": "TheCookieChain"
+    },
+    "published_at": "2026-06-17",
+    "image": "",
+    "tags": [
+      "coingecko",
+      "cook",
+      "listing",
+      "solana"
+    ],
+    "featured": false,
+    "language": "en"
   }
 ]
